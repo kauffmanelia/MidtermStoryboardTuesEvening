@@ -18,13 +18,14 @@
 		96CBD45F1A08447600DE3EA0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD45E1A08447600DE3EA0 /* Images.xcassets */; };
 		96CBD4621A08447600DE3EA0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4601A08447600DE3EA0 /* LaunchScreen.xib */; };
 		96CBD46E1A08447600DE3EA0 /* MidtermStoryboardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD46D1A08447600DE3EA0 /* MidtermStoryboardTests.m */; };
-		96CBD47D1A0844B100DE3EA0 /* gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4771A0844B100DE3EA0 /* gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg */; };
-		96CBD47E1A0844B100DE3EA0 /* gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4781A0844B100DE3EA0 /* gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg */; };
-		96CBD47F1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4791A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg */; };
-		96CBD4801A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD47A1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg */; };
-		96CBD4811A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD47B1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg */; };
-		96CBD4821A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD47C1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg */; };
-		96CBD4871A08675A00DE3EA0 /* Chicken (1).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4861A08675A00DE3EA0 /* Chicken (1).jpg */; };
+		CADF98EE1A09C5D50008B60F /* RecipeCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98E01A09C5D50008B60F /* RecipeCollectionViewController.m */; };
+		CADF98EF1A09C5D50008B60F /* CoursePickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98E11A09C5D50008B60F /* CoursePickerViewController.m */; };
+		CADF98F01A09C5D50008B60F /* RecipeCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98E31A09C5D50008B60F /* RecipeCollectionViewCell.m */; };
+		CADF98F11A09C5D50008B60F /* RecipeList.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98E51A09C5D50008B60F /* RecipeList.m */; };
+		CADF98F21A09C5D50008B60F /* URLForAPICall.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98E71A09C5D50008B60F /* URLForAPICall.m */; };
+		CADF98F31A09C5D50008B60F /* CourseList.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98EA1A09C5D50008B60F /* CourseList.m */; };
+		CADF98F41A09C5D50008B60F /* Ingredient.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98ED1A09C5D50008B60F /* Ingredient.m */; };
+		CADF98FC1A09D2B90008B60F /* RecipeGenieViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CADF98FB1A09D2B90008B60F /* RecipeGenieViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,13 +56,22 @@
 		96CBD4671A08447600DE3EA0 /* MidtermStoryboardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MidtermStoryboardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96CBD46C1A08447600DE3EA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		96CBD46D1A08447600DE3EA0 /* MidtermStoryboardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MidtermStoryboardTests.m; sourceTree = "<group>"; };
-		96CBD4771A0844B100DE3EA0 /* gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg"; path = "../../../Downloads/gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg"; sourceTree = "<group>"; };
-		96CBD4781A0844B100DE3EA0 /* gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg"; path = "../../../Downloads/gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg"; sourceTree = "<group>"; };
-		96CBD4791A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg"; path = "../../../Downloads/gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg"; sourceTree = "<group>"; };
-		96CBD47A1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg"; path = "../../../Downloads/gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg"; sourceTree = "<group>"; };
-		96CBD47B1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg"; path = "../../../Downloads/gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg"; sourceTree = "<group>"; };
-		96CBD47C1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg"; path = "../../../Downloads/gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg"; sourceTree = "<group>"; };
-		96CBD4861A08675A00DE3EA0 /* Chicken (1).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Chicken (1).jpg"; path = "../../../Desktop/Chicken (1).jpg"; sourceTree = "<group>"; };
+		CADF98E01A09C5D50008B60F /* RecipeCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeCollectionViewController.m; sourceTree = "<group>"; };
+		CADF98E11A09C5D50008B60F /* CoursePickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoursePickerViewController.m; sourceTree = "<group>"; };
+		CADF98E21A09C5D50008B60F /* RecipeCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeCollectionViewCell.h; sourceTree = "<group>"; };
+		CADF98E31A09C5D50008B60F /* RecipeCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeCollectionViewCell.m; sourceTree = "<group>"; };
+		CADF98E41A09C5D50008B60F /* RecipeCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeCollectionViewController.h; sourceTree = "<group>"; };
+		CADF98E51A09C5D50008B60F /* RecipeList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeList.m; sourceTree = "<group>"; };
+		CADF98E61A09C5D50008B60F /* RecipeList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeList.h; sourceTree = "<group>"; };
+		CADF98E71A09C5D50008B60F /* URLForAPICall.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = URLForAPICall.m; sourceTree = "<group>"; };
+		CADF98E81A09C5D50008B60F /* URLForAPICall.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = URLForAPICall.h; sourceTree = "<group>"; };
+		CADF98E91A09C5D50008B60F /* CoursePickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoursePickerViewController.h; sourceTree = "<group>"; };
+		CADF98EA1A09C5D50008B60F /* CourseList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CourseList.m; sourceTree = "<group>"; };
+		CADF98EB1A09C5D50008B60F /* CourseList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CourseList.h; sourceTree = "<group>"; };
+		CADF98EC1A09C5D50008B60F /* Ingredient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ingredient.h; sourceTree = "<group>"; };
+		CADF98ED1A09C5D50008B60F /* Ingredient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Ingredient.m; sourceTree = "<group>"; };
+		CADF98FA1A09D2B90008B60F /* RecipeGenieViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RecipeGenieViewController.h; sourceTree = "<group>"; };
+		CADF98FB1A09D2B90008B60F /* RecipeGenieViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RecipeGenieViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +125,16 @@
 			children = (
 				96CBD4551A08447600DE3EA0 /* AppDelegate.h */,
 				96CBD4561A08447600DE3EA0 /* AppDelegate.m */,
+				CADF98FA1A09D2B90008B60F /* RecipeGenieViewController.h */,
+				CADF98FB1A09D2B90008B60F /* RecipeGenieViewController.m */,
+				CADF98F51A09C5E20008B60F /* ReceipeCollectionView */,
+				CADF98E61A09C5D50008B60F /* RecipeList.h */,
+				CADF98E51A09C5D50008B60F /* RecipeList.m */,
+				CADF98E81A09C5D50008B60F /* URLForAPICall.h */,
+				CADF98E71A09C5D50008B60F /* URLForAPICall.m */,
+				CADF98E91A09C5D50008B60F /* CoursePickerViewController.h */,
+				CADF98E11A09C5D50008B60F /* CoursePickerViewController.m */,
+				CADF98F61A09C6130008B60F /* Ingredient Stuff */,
 				96181A0A1A09AC6F00519A7F /* FridgeTableViewController.h */,
 				96181A0B1A09AC6F00519A7F /* FridgeTableViewController.m */,
 				96C8C5FF1A09A1C80090FBF9 /* FridgeTableViewCell.h */,
@@ -131,13 +151,6 @@
 		96CBD4511A08447600DE3EA0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				96CBD4861A08675A00DE3EA0 /* Chicken (1).jpg */,
-				96CBD4771A0844B100DE3EA0 /* gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg */,
-				96CBD4781A0844B100DE3EA0 /* gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg */,
-				96CBD4791A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg */,
-				96CBD47A1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg */,
-				96CBD47B1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg */,
-				96CBD47C1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg */,
 				96CBD4521A08447600DE3EA0 /* Info.plist */,
 				96CBD4531A08447600DE3EA0 /* main.m */,
 			);
@@ -159,6 +172,28 @@
 				96CBD46C1A08447600DE3EA0 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CADF98F51A09C5E20008B60F /* ReceipeCollectionView */ = {
+			isa = PBXGroup;
+			children = (
+				CADF98E41A09C5D50008B60F /* RecipeCollectionViewController.h */,
+				CADF98E01A09C5D50008B60F /* RecipeCollectionViewController.m */,
+				CADF98E21A09C5D50008B60F /* RecipeCollectionViewCell.h */,
+				CADF98E31A09C5D50008B60F /* RecipeCollectionViewCell.m */,
+			);
+			name = ReceipeCollectionView;
+			sourceTree = "<group>";
+		};
+		CADF98F61A09C6130008B60F /* Ingredient Stuff */ = {
+			isa = PBXGroup;
+			children = (
+				CADF98EB1A09C5D50008B60F /* CourseList.h */,
+				CADF98EA1A09C5D50008B60F /* CourseList.m */,
+				CADF98EC1A09C5D50008B60F /* Ingredient.h */,
+				CADF98ED1A09C5D50008B60F /* Ingredient.m */,
+			);
+			name = "Ingredient Stuff";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -241,16 +276,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				96CBD4811A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg in Resources */,
-				96CBD47F1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg in Resources */,
 				96CBD4621A08447600DE3EA0 /* LaunchScreen.xib in Resources */,
 				96C8C6041A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */,
 				96CBD45F1A08447600DE3EA0 /* Images.xcassets in Resources */,
-				96CBD47D1A0844B100DE3EA0 /* gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg in Resources */,
-				96CBD4821A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg in Resources */,
-				96CBD47E1A0844B100DE3EA0 /* gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg in Resources */,
-				96CBD4801A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg in Resources */,
-				96CBD4871A08675A00DE3EA0 /* Chicken (1).jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,11 +297,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CADF98EE1A09C5D50008B60F /* RecipeCollectionViewController.m in Sources */,
 				96CBD45A1A08447600DE3EA0 /* ViewController.m in Sources */,
+				CADF98FC1A09D2B90008B60F /* RecipeGenieViewController.m in Sources */,
+				CADF98F31A09C5D50008B60F /* CourseList.m in Sources */,
 				96CBD4571A08447600DE3EA0 /* AppDelegate.m in Sources */,
+				CADF98F41A09C5D50008B60F /* Ingredient.m in Sources */,
 				96181A0C1A09AC6F00519A7F /* FridgeTableViewController.m in Sources */,
+				CADF98F01A09C5D50008B60F /* RecipeCollectionViewCell.m in Sources */,
 				96C8C6011A09A1C80090FBF9 /* FridgeTableViewCell.m in Sources */,
 				96CBD4541A08447600DE3EA0 /* main.m in Sources */,
+				CADF98EF1A09C5D50008B60F /* CoursePickerViewController.m in Sources */,
+				CADF98F21A09C5D50008B60F /* URLForAPICall.m in Sources */,
+				CADF98F11A09C5D50008B60F /* RecipeList.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,7 +378,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -377,7 +413,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
