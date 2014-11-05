@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		96181A0C1A09AC6F00519A7F /* FridgeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 96181A0B1A09AC6F00519A7F /* FridgeTableViewController.m */; };
+		96C8C5F51A096A5C0090FBF9 /* MidtermProjectTues.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96C8C5F41A096A5C0090FBF9 /* MidtermProjectTues.storyboard */; };
+		96C8C5F61A096A5C0090FBF9 /* MidtermProjectTues.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96C8C5F41A096A5C0090FBF9 /* MidtermProjectTues.storyboard */; };
+		96C8C6011A09A1C80090FBF9 /* FridgeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C8C6001A09A1C80090FBF9 /* FridgeTableViewCell.m */; };
+		96C8C6021A09A1C80090FBF9 /* FridgeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C8C6001A09A1C80090FBF9 /* FridgeTableViewCell.m */; };
+		96C8C6041A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96C8C6031A09A8120090FBF9 /* StoryboardTuesNight.storyboard */; };
+		96C8C6051A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96C8C6031A09A8120090FBF9 /* StoryboardTuesNight.storyboard */; };
 		96CBD4541A08447600DE3EA0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD4531A08447600DE3EA0 /* main.m */; };
 		96CBD4571A08447600DE3EA0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD4561A08447600DE3EA0 /* AppDelegate.m */; };
 		96CBD45A1A08447600DE3EA0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD4591A08447600DE3EA0 /* ViewController.m */; };
@@ -14,6 +21,13 @@
 		96CBD45F1A08447600DE3EA0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD45E1A08447600DE3EA0 /* Images.xcassets */; };
 		96CBD4621A08447600DE3EA0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4601A08447600DE3EA0 /* LaunchScreen.xib */; };
 		96CBD46E1A08447600DE3EA0 /* MidtermStoryboardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD46D1A08447600DE3EA0 /* MidtermStoryboardTests.m */; };
+		96CBD47D1A0844B100DE3EA0 /* gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4771A0844B100DE3EA0 /* gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg */; };
+		96CBD47E1A0844B100DE3EA0 /* gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4781A0844B100DE3EA0 /* gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg */; };
+		96CBD47F1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4791A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg */; };
+		96CBD4801A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD47A1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg */; };
+		96CBD4811A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD47B1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg */; };
+		96CBD4821A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD47C1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg */; };
+		96CBD4871A08675A00DE3EA0 /* Chicken (1).jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4861A08675A00DE3EA0 /* Chicken (1).jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +41,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		96181A0A1A09AC6F00519A7F /* FridgeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FridgeTableViewController.h; path = ../FridgeTableViewController.h; sourceTree = "<group>"; };
+		96181A0B1A09AC6F00519A7F /* FridgeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FridgeTableViewController.m; path = ../FridgeTableViewController.m; sourceTree = "<group>"; };
+		96C8C5F41A096A5C0090FBF9 /* MidtermProjectTues.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = MidtermProjectTues.storyboard; path = ../MidtermProjectTues.storyboard; sourceTree = "<group>"; };
+		96C8C5FF1A09A1C80090FBF9 /* FridgeTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FridgeTableViewCell.h; path = ../FridgeTableViewCell.h; sourceTree = "<group>"; };
+		96C8C6001A09A1C80090FBF9 /* FridgeTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FridgeTableViewCell.m; path = ../FridgeTableViewCell.m; sourceTree = "<group>"; };
+		96C8C6031A09A8120090FBF9 /* StoryboardTuesNight.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = StoryboardTuesNight.storyboard; path = ../StoryboardTuesNight.storyboard; sourceTree = "<group>"; };
 		96CBD44E1A08447600DE3EA0 /* MidtermStoryboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MidtermStoryboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		96CBD4521A08447600DE3EA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		96CBD4531A08447600DE3EA0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +60,13 @@
 		96CBD4671A08447600DE3EA0 /* MidtermStoryboardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MidtermStoryboardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96CBD46C1A08447600DE3EA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		96CBD46D1A08447600DE3EA0 /* MidtermStoryboardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MidtermStoryboardTests.m; sourceTree = "<group>"; };
+		96CBD4771A0844B100DE3EA0 /* gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg"; path = "../../../Downloads/gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg"; sourceTree = "<group>"; };
+		96CBD4781A0844B100DE3EA0 /* gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg"; path = "../../../Downloads/gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg"; sourceTree = "<group>"; };
+		96CBD4791A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg"; path = "../../../Downloads/gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg"; sourceTree = "<group>"; };
+		96CBD47A1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg"; path = "../../../Downloads/gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg"; sourceTree = "<group>"; };
+		96CBD47B1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg"; path = "../../../Downloads/gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg"; sourceTree = "<group>"; };
+		96CBD47C1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg"; path = "../../../Downloads/gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg"; sourceTree = "<group>"; };
+		96CBD4861A08675A00DE3EA0 /* Chicken (1).jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Chicken (1).jpg"; path = "../../../Desktop/Chicken (1).jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +87,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		96181A0D1A09ADE900519A7F /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				96C8C5F41A096A5C0090FBF9 /* MidtermProjectTues.storyboard */,
+				96C8C6031A09A8120090FBF9 /* StoryboardTuesNight.storyboard */,
+				96CBD45B1A08447600DE3EA0 /* Main.storyboard */,
+			);
+			name = Storyboards;
+			path = MidtermStoryboard;
+			sourceTree = "<group>";
+		};
 		96CBD4451A08447600DE3EA0 = {
 			isa = PBXGroup;
 			children = (
+				96181A0D1A09ADE900519A7F /* Storyboards */,
 				96CBD4501A08447600DE3EA0 /* MidtermStoryboard */,
 				96CBD46A1A08447600DE3EA0 /* MidtermStoryboardTests */,
 				96CBD44F1A08447600DE3EA0 /* Products */,
@@ -83,9 +122,12 @@
 			children = (
 				96CBD4551A08447600DE3EA0 /* AppDelegate.h */,
 				96CBD4561A08447600DE3EA0 /* AppDelegate.m */,
+				96181A0A1A09AC6F00519A7F /* FridgeTableViewController.h */,
+				96181A0B1A09AC6F00519A7F /* FridgeTableViewController.m */,
+				96C8C5FF1A09A1C80090FBF9 /* FridgeTableViewCell.h */,
+				96C8C6001A09A1C80090FBF9 /* FridgeTableViewCell.m */,
 				96CBD4581A08447600DE3EA0 /* ViewController.h */,
 				96CBD4591A08447600DE3EA0 /* ViewController.m */,
-				96CBD45B1A08447600DE3EA0 /* Main.storyboard */,
 				96CBD45E1A08447600DE3EA0 /* Images.xcassets */,
 				96CBD4601A08447600DE3EA0 /* LaunchScreen.xib */,
 				96CBD4511A08447600DE3EA0 /* Supporting Files */,
@@ -96,6 +138,13 @@
 		96CBD4511A08447600DE3EA0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				96CBD4861A08675A00DE3EA0 /* Chicken (1).jpg */,
+				96CBD4771A0844B100DE3EA0 /* gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg */,
+				96CBD4781A0844B100DE3EA0 /* gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg */,
+				96CBD4791A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg */,
+				96CBD47A1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg */,
+				96CBD47B1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg */,
+				96CBD47C1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg */,
 				96CBD4521A08447600DE3EA0 /* Info.plist */,
 				96CBD4531A08447600DE3EA0 /* main.m */,
 			);
@@ -199,9 +248,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96CBD4811A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg in Resources */,
 				96CBD45D1A08447600DE3EA0 /* Main.storyboard in Resources */,
+				96CBD47F1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg in Resources */,
 				96CBD4621A08447600DE3EA0 /* LaunchScreen.xib in Resources */,
+				96C8C5F51A096A5C0090FBF9 /* MidtermProjectTues.storyboard in Resources */,
+				96C8C6041A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */,
 				96CBD45F1A08447600DE3EA0 /* Images.xcassets in Resources */,
+				96CBD47D1A0844B100DE3EA0 /* gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg in Resources */,
+				96CBD4821A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_70.jpg in Resources */,
+				96CBD47E1A0844B100DE3EA0 /* gallery-13_simple-1-iphone-5-wallpaper-simple-blue-softblue (1).jpg in Resources */,
+				96CBD4801A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-stripe-layers-03.jpg in Resources */,
+				96CBD4871A08675A00DE3EA0 /* Chicken (1).jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -209,6 +267,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96C8C5F61A096A5C0090FBF9 /* MidtermProjectTues.storyboard in Resources */,
+				96C8C6051A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,6 +281,8 @@
 			files = (
 				96CBD45A1A08447600DE3EA0 /* ViewController.m in Sources */,
 				96CBD4571A08447600DE3EA0 /* AppDelegate.m in Sources */,
+				96181A0C1A09AC6F00519A7F /* FridgeTableViewController.m in Sources */,
+				96C8C6011A09A1C80090FBF9 /* FridgeTableViewCell.m in Sources */,
 				96CBD4541A08447600DE3EA0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -230,6 +292,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96CBD46E1A08447600DE3EA0 /* MidtermStoryboardTests.m in Sources */,
+				96C8C6021A09A1C80090FBF9 /* FridgeTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,6 +475,7 @@
 				96CBD4731A08447600DE3EA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		96CBD4741A08447600DE3EA0 /* Build configuration list for PBXNativeTarget "MidtermStoryboardTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +484,7 @@
 				96CBD4761A08447600DE3EA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
