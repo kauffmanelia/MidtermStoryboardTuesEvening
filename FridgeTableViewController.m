@@ -11,6 +11,8 @@
 
 @interface FridgeTableViewController ()
 
+@property (weak , nonatomic) IBOutlet UIView *ingredientsFooter;
+
 @end
 
 @implementation FridgeTableViewController
@@ -23,6 +25,9 @@
     
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
+    
+    self.tableView.tableFooterView =  self.ingredientsFooter;
+    
 }
 
 - (void)didReceiveMemoryWarning {
@@ -52,6 +57,11 @@
     
     return cell;
 }
+
+-(UIView *)tableView:(UITableView *)tableView viewForFooterInSection:(NSInteger)section{
+    return self.ingredientsFooter;
+}
+
 
 /*
 // Override to support conditional editing of the table view.

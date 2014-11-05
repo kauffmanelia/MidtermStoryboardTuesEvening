@@ -8,8 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		96181A0C1A09AC6F00519A7F /* FridgeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 96181A0B1A09AC6F00519A7F /* FridgeTableViewController.m */; };
-		96C8C5F51A096A5C0090FBF9 /* MidtermProjectTues.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96C8C5F41A096A5C0090FBF9 /* MidtermProjectTues.storyboard */; };
-		96C8C5F61A096A5C0090FBF9 /* MidtermProjectTues.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96C8C5F41A096A5C0090FBF9 /* MidtermProjectTues.storyboard */; };
 		96C8C6011A09A1C80090FBF9 /* FridgeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C8C6001A09A1C80090FBF9 /* FridgeTableViewCell.m */; };
 		96C8C6021A09A1C80090FBF9 /* FridgeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C8C6001A09A1C80090FBF9 /* FridgeTableViewCell.m */; };
 		96C8C6041A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96C8C6031A09A8120090FBF9 /* StoryboardTuesNight.storyboard */; };
@@ -17,7 +15,6 @@
 		96CBD4541A08447600DE3EA0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD4531A08447600DE3EA0 /* main.m */; };
 		96CBD4571A08447600DE3EA0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD4561A08447600DE3EA0 /* AppDelegate.m */; };
 		96CBD45A1A08447600DE3EA0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD4591A08447600DE3EA0 /* ViewController.m */; };
-		96CBD45D1A08447600DE3EA0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD45B1A08447600DE3EA0 /* Main.storyboard */; };
 		96CBD45F1A08447600DE3EA0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD45E1A08447600DE3EA0 /* Images.xcassets */; };
 		96CBD4621A08447600DE3EA0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 96CBD4601A08447600DE3EA0 /* LaunchScreen.xib */; };
 		96CBD46E1A08447600DE3EA0 /* MidtermStoryboardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96CBD46D1A08447600DE3EA0 /* MidtermStoryboardTests.m */; };
@@ -43,7 +40,6 @@
 /* Begin PBXFileReference section */
 		96181A0A1A09AC6F00519A7F /* FridgeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FridgeTableViewController.h; path = ../FridgeTableViewController.h; sourceTree = "<group>"; };
 		96181A0B1A09AC6F00519A7F /* FridgeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FridgeTableViewController.m; path = ../FridgeTableViewController.m; sourceTree = "<group>"; };
-		96C8C5F41A096A5C0090FBF9 /* MidtermProjectTues.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = MidtermProjectTues.storyboard; path = ../MidtermProjectTues.storyboard; sourceTree = "<group>"; };
 		96C8C5FF1A09A1C80090FBF9 /* FridgeTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FridgeTableViewCell.h; path = ../FridgeTableViewCell.h; sourceTree = "<group>"; };
 		96C8C6001A09A1C80090FBF9 /* FridgeTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FridgeTableViewCell.m; path = ../FridgeTableViewCell.m; sourceTree = "<group>"; };
 		96C8C6031A09A8120090FBF9 /* StoryboardTuesNight.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = StoryboardTuesNight.storyboard; path = ../StoryboardTuesNight.storyboard; sourceTree = "<group>"; };
@@ -54,7 +50,6 @@
 		96CBD4561A08447600DE3EA0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		96CBD4581A08447600DE3EA0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		96CBD4591A08447600DE3EA0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		96CBD45C1A08447600DE3EA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		96CBD45E1A08447600DE3EA0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		96CBD4611A08447600DE3EA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		96CBD4671A08447600DE3EA0 /* MidtermStoryboardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MidtermStoryboardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -90,9 +85,7 @@
 		96181A0D1A09ADE900519A7F /* Storyboards */ = {
 			isa = PBXGroup;
 			children = (
-				96C8C5F41A096A5C0090FBF9 /* MidtermProjectTues.storyboard */,
 				96C8C6031A09A8120090FBF9 /* StoryboardTuesNight.storyboard */,
-				96CBD45B1A08447600DE3EA0 /* Main.storyboard */,
 			);
 			name = Storyboards;
 			path = MidtermStoryboard;
@@ -249,10 +242,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				96CBD4811A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-parallax-hd-blurry_46.jpg in Resources */,
-				96CBD45D1A08447600DE3EA0 /* Main.storyboard in Resources */,
 				96CBD47F1A0844B100DE3EA0 /* gallery-84_abstract-iphone-6-wallpaper-ios8-color-solar-iphone-5.jpg in Resources */,
 				96CBD4621A08447600DE3EA0 /* LaunchScreen.xib in Resources */,
-				96C8C5F51A096A5C0090FBF9 /* MidtermProjectTues.storyboard in Resources */,
 				96C8C6041A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */,
 				96CBD45F1A08447600DE3EA0 /* Images.xcassets in Resources */,
 				96CBD47D1A0844B100DE3EA0 /* gallery-06_ios7-1-iphone-5-wallpaper-ios7-color-fsrigcz.jpg in Resources */,
@@ -267,7 +258,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				96C8C5F61A096A5C0090FBF9 /* MidtermProjectTues.storyboard in Resources */,
 				96C8C6051A09A8120090FBF9 /* StoryboardTuesNight.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -307,14 +297,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		96CBD45B1A08447600DE3EA0 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				96CBD45C1A08447600DE3EA0 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		96CBD4601A08447600DE3EA0 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (

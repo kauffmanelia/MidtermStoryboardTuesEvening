@@ -390,7 +390,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wrB-0C-QaY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3662" y="-651"/>
+            <point key="canvasLocation" x="3506" y="-547"/>
         </scene>
         <!--Fridge Table View Controller-->
         <scene sceneID="S9r-Y1-b7N">
@@ -532,8 +532,13 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <view key="tableFooterView" contentMode="scaleToFill" id="VtW-v1-IS5">
+                            <rect key="frame" x="0.0" y="0.0" width="600" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="backgroundColor" red="0.56470588239999997" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        </view>
                         <prototypes>
-                            <tableViewCell contentMode="scaleToFill" selectionStyle="gray" indentationWidth="10" rowHeight="66" id="KC5-g3-KWb" customClass="FridgeTableViewCell">
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="gray" indentationWidth="10" reuseIdentifier="Cell" rowHeight="66" id="KC5-g3-KWb" customClass="FridgeTableViewCell">
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KC5-g3-KWb" id="NT4-ao-0ob">
                                     <autoresizingMask key="autoresizingMask"/>
@@ -549,6 +554,10 @@
                                         </label>
                                     </subviews>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="ingredientImage" destination="Jeg-fJ-wQ4" id="a5A-3B-iCm"/>
+                                    <outlet property="ingredientLabel" destination="Kqh-14-R8f" id="F1q-HK-79Y"/>
+                                </connections>
                             </tableViewCell>
                         </prototypes>
                         <connections>
@@ -556,6 +565,9 @@
                             <outlet property="delegate" destination="fTU-LP-jgZ" id="tUi-lU-V25"/>
                         </connections>
                     </tableView>
+                    <connections>
+                        <outlet property="ingredientsFooter" destination="VtW-v1-IS5" id="XwO-tq-W9W"/>
+                    </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="SoB-B1-5KC" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
